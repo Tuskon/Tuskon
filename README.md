@@ -73,7 +73,7 @@ I am a Software Engineer specialized in mobile development and automation, with 
 
 ## 📫 Contact
 
-* LinkedIn:[Linkedin](https://www.linkedin.com/in/jos%C3%A9-luiz-068401134/)
+* LinkedIn: [Check my Linkedin](https://www.linkedin.com/in/jos%C3%A9-luiz-068401134/)
 * Email: [jose.worktool@gmail.com](mailto:jose.worktool@gmail.com)
 
 ---
