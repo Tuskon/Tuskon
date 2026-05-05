@@ -46,6 +46,7 @@ I am a Software Engineer specialized in mobile development and automation, with 
 
 ### 🧩 Architecture & Patterns
 
+* SOLID
 * MVVM
 * Context API
 
