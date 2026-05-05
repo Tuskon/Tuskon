@@ -16,20 +16,20 @@ I am a Software Engineer specialized in mobile development and automation, with 
 
 ### 📱 Mobile Development
 
-* React Native (**Advanced**)
+* React Native
 * Expo
 * React Navigation
 * Native Development: **Swift** & **Kotlin**
 
 ### 🌐 Frontend
 
-* React.js (**Next.js - Advanced**)
+* React.js (**Next.js*)
 
 ### ⚙️ Backend
 
-* Node.js (**Express.js, Nest.js - Advanced**)
-* RESTful APIs (**ASP.NET Core, Node.js**)
-* C# (**Intermediate**)
+* Node.js (**Express.js, Nest.js*)
+* RESTful APIs
+* C#
 
 ### 🗄️ Databases
 
@@ -62,14 +62,6 @@ I am a Software Engineer specialized in mobile development and automation, with 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME\&layout=compact\&theme=tokyonight)
-
----
-
 ## 📌 Featured Projects
 
 * 🚀 Mobile applications with React Native focused on performance and scalability
@@ -80,7 +72,7 @@ I am a Software Engineer specialized in mobile development and automation, with 
 
 ## 📫 Contact
 
-* LinkedIn:[Linkedin](https://www.linkedin.com/in/jos%C3%A9-luiz-068401134/)]
+* LinkedIn:[Linkedin](https://www.linkedin.com/in/jos%C3%A9-luiz-068401134/)
 * Email: [jose.worktool@gmail.com](mailto:jose.worktool@gmail.com)
 
 ---
