@@ -23,11 +23,11 @@ I am a Software Engineer specialized in mobile development and automation, with 
 
 ### 🌐 Frontend
 
-* React.js (**Next.js*)
+* React.js (*Next.js*)
 
 ### ⚙️ Backend
 
-* Node.js (**Express.js, Nest.js*)
+* Node.js (*Express.js, Nest.js*)
 * RESTful APIs
 * C#
 
@@ -42,7 +42,7 @@ I am a Software Engineer specialized in mobile development and automation, with 
 
 ### ☁️ Cloud & Tools
 
-* AWS (**Beginner**)
+* AWS
 
 ### 🧩 Architecture & Patterns
 
